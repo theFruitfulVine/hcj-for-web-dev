@@ -11,7 +11,7 @@ h1 {
   margin-bottom: 30px;
   text-align: center;
   font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
-  font-size: 2em;
+  font-size: 32px;
 }
 
 p {
@@ -46,7 +46,7 @@ p {
   font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
   font-color: black;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 24px;
   text-align: center;
 }
 
@@ -55,13 +55,12 @@ p {
   background-color: yellow;
   position: absolute;
   right: 0;
-  top: 0;
   width: 100px;
   height: 40px;
   font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
   font-color: black;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 24px;
   text-align: center;
 }
 
@@ -76,7 +75,7 @@ p {
   font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
   font-color: black;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 24px;
   text-align: center;
 }
 
@@ -86,7 +85,6 @@ p {
   .col-sm-11 {
     float: left;
     border: 2px solid black;
-    height: auto;
     margin-right: 12px;
     margin-left: 20px;
     margin-top: 10px;
@@ -124,9 +122,11 @@ p {
   .col-lg-3 {
     float: left;
     border: 2px solid black;
-    width: 31%;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: 12px;
     margin-left: 15px;
+    width: 31%;
     position: relative;
 
   }
