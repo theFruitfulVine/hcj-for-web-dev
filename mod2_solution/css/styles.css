@@ -75,7 +75,7 @@ h1 {
 }
 
 .Peter {
-  border: 1px solid black;
+  border: 2px solid black;
   background-color: crimson;
   position: absolute;
   right: 0;
@@ -89,7 +89,7 @@ h1 {
 }
 
 .Paul {
-  border: 1px solid black;
+  border: 2px solid black;
   background-color: gold;
   position: absolute;
   right: 0;
@@ -103,7 +103,7 @@ h1 {
 }
 
 .John {
-  border: 1px solid black;
+  border: 2px solid black;
   background-color: deepskyblue;
   position:absolute;
   right: 0;
