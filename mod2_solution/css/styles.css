@@ -20,11 +20,12 @@ p {
   background-color: grey;
   padding-left: 12px;
   padding-right: 12px;
-  padding-top: 40px;
+  padding-top: 45px;
   font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
   font-color: black;
   font-weight: bold;
   font-size: 16px;
+  float: right;
 }
 
 /* Simple Responsive Framework. */
@@ -40,7 +41,6 @@ p {
   background-color: maroon;
   position: absolute;
   right: 0;
-  margin-top: 0;
   width: 100px;
   height: 40px;
   font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
